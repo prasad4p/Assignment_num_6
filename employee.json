@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Prasad",
+        "dob":"04-08-93",
+        "height":"5ft6",
+        "city":"Mumbai",
+        "state":"Maharshtra"
+    },
+    {
+        "name":"Tejas",
+        "dob":"05-06-94",
+        "height":"5ft8",
+        "city":"Gurugram",
+        "state":"Hareyana"   
+    },
+    {
+        "name":"Manoj",
+        "dob":"25-12-90",
+        "height":"5ft3",
+        "city":"Pune",
+        "state":"Maharashtra"
+    },
+    {
+        "name":"Gautam",
+        "dob":"16-07-93",
+        "height":"5ft6",
+        "city":"Bengaluru",
+        "state":"Karnataka"
+    },
+    {
+        "name":"Sumit",
+        "dob":"14-05-91",
+        "height":"5ft9",
+        "city":"Surat",
+        "state":"Gujarat"
+    }
+]
+
